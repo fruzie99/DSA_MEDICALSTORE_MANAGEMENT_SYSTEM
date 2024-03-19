@@ -1,0 +1,15 @@
+﻿F
+Id:F101
+Name:Fluoxetine
+Quantity:300
+Cost:5
+Mfg_date:24/6/2023
+Exp_date:24/6/2024
+
+
+Id:F102
+Name:Furosemide
+Quantity:300
+Cost:5
+Mfg_date:24/6/2023
+Exp_date:24/6/2024

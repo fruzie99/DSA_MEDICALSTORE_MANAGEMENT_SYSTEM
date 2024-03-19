@@ -1,0 +1,7 @@
+﻿O
+Id:O101
+Name:Omeprazole
+Quantity:150
+Cost:5
+Mfg_date:24/6/2023
+Exp_date:24/12/2023

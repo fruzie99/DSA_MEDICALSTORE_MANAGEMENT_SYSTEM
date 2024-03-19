@@ -1,0 +1,7 @@
+﻿W
+Id:W101
+Name:Warfarin
+Quantity:100
+Cost:6
+Mfg_date:24/6/2023
+Exp_date:24/12/2023

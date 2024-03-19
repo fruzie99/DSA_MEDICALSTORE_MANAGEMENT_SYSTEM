@@ -1,0 +1,15 @@
+﻿E
+Id:E101
+Name:Enoxaparin
+Quantity:300
+Cost:5
+Mfg_date:24/6/2023
+Exp_date:24/6/2024
+
+
+Id:E102
+Name:Esomeprazole
+Quantity:300
+Cost:5
+Mfg_date:24/6/2023
+Exp_date:24/6/2024

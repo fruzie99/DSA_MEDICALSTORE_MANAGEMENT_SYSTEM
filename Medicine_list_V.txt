@@ -1,0 +1,7 @@
+﻿V
+Id:V101
+Name:Venlafaxine
+Quantity:100
+Cost:15
+Mfg_date:24/6/2023
+Exp_date:24/12/2023

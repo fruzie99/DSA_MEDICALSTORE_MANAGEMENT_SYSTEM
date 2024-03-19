@@ -1,0 +1,15 @@
+﻿T
+Id:T101
+Name:Tamsulosin
+Quantity:100
+Cost:11
+Mfg_date:24/6/2023
+Exp_date:24/12/2023
+
+
+Id:T102
+Name:Tramadol
+Quantity:120
+Cost:10
+Mfg_date:24/6/2023
+Exp_date:24/12/2023

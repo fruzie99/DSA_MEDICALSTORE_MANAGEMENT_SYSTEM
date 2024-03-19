@@ -1,0 +1,7 @@
+﻿H
+Id:H101
+Name:Hydrochlorothiazide
+Quantity:300
+Cost:5
+Mfg_date:24/6/2023
+Exp_date:24/6/2024

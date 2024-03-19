@@ -1,0 +1,7 @@
+﻿G
+Id:G101
+Name:Gabapentin
+Quantity:300
+Cost:5
+Mfg_date:24/6/2023
+Exp_date:24/6/2024

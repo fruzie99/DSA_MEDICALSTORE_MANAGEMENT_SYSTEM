@@ -1,0 +1,7 @@
+﻿Z
+Id:Z101
+Name:Zolpidem
+Quantity:200
+Cost:5
+Mfg_date:24/6/2023
+Exp_date:24/12/2023

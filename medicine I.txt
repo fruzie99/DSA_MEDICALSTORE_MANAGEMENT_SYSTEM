@@ -1,0 +1,6 @@
+﻿Id:I101
+Name:Ibuprofen
+Quantity:300
+Cost:5
+Mfg_date:24/6/2023
+Exp_date:24/6/2024
