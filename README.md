@@ -8,7 +8,7 @@ Medical Pharmacy Management System
 
 Introduction:
 
-The Medical Pharmacy Management System streamlines pharmacy operations, including inventory management, prescription processing, and billing. By digitizing tasks, it enhances accuracy and efficiency, benefiting both staff and patients.
+The Medical Pharmacy Management System streamlines pharmacy operations, including inventory management, prescription processing, and billing. By digitizing tasks, it enhances accuracy and efficiency, benefiting both pharmists and customers.
 
 Methodology:
 
